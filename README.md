@@ -21,7 +21,8 @@
 - 工作年限要求
 - 技术能力要求
 
-
+# kaggle实战
+- [心脏病数据](https://www.kaggle.com/rovesoul/my-analysis-of-heart-disease-data)
 
 
 更新日期1：2019.11.19
