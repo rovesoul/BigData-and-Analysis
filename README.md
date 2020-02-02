@@ -21,10 +21,10 @@
 - 工作年限要求
 - 技术能力要求
 
-# kaggle实战
+## kaggle实战
 - [心脏病数据](https://www.kaggle.com/rovesoul/my-analysis-of-heart-disease-data)
 
-# 数据接口调用
+## 数据接口调用
 - 数据接口查询疫情数据.py  查询2020新年新型冠状病毒疫情数据
 
 
