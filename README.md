@@ -20,6 +20,8 @@
 - 工资待遇
 - 工作年限要求
 - 技术能力要求
+## draw img文件夹
+文件夹内是用各类软件绘制的有代表性的图，方便今后使用。
 
 ## kaggle实战
 - [心脏病数据](https://www.kaggle.com/rovesoul/my-analysis-of-heart-disease-data)
